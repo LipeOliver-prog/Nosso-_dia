@@ -38,11 +38,10 @@ body {
 
 img {
   max-height: 200px;
-  max-width: 100%;
-  width: auto;
-  height: auto;
+  width: 100%;
   user-select: none;
 }
+
 
 
 .paper.heart::after {
