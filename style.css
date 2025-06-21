@@ -38,9 +38,12 @@ body {
 
 img {
   max-height: 200px;
-  width: 100%;
+  max-width: 100%;
+  width: auto;
+  height: auto;
   user-select: none;
 }
+
 
 .paper.heart::after {
   content: "";
